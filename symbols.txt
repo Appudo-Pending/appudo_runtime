@@ -1,0 +1,76 @@
+###########################################################################################
+#    symbols.txt is part of Appudo
+#
+#   Copyright (C) 2015-2016
+#       bc00940f92e19b5d84931da5bbb6bce10b8e341bdd9d98d016513a164e790c05 source@appudo.com
+#
+#    Licensed under the Apache License, Version 2.0
+#
+#    See http://www.apache.org/licenses/LICENSE-2.0 for more information
+###########################################################################################
+WebSocketEvent_Init swift_WebSocketEvent_Init
+WebSocketEvent_InitStr swift_WebSocketEvent_InitStr
+WebSocketEvent_InitStr_check swift_WebSocketEvent_InitStr_check
+WebSocketEvent_InitBytes swift_WebSocketEvent_InitBytes
+Page_OnGetCache swift_Page_OnGetCache
+Page_OnSetCache swift_Page_OnSetCache
+Page_Control swift_Page_Control
+Variable_setGetVar swift_Variable_setGetVar
+Variable_setPostVar swift_Variable_setPostVar
+Variable_setCookieVar swift_Variable_setCookieVar
+Cookie_WriteValue swift_Cookie_WriteValue
+RunData_Init swift_RunData_Init
+RunData_Release swift_RunData_Release
+Upload_Begin swift_Upload_Begin
+AsyncObj_Release swift_AsyncObj_Release
+AsyncObj_Keep swift_AsyncObj_Keep
+AsyncObj_SetAccountId swift_AsyncObj_SetAccountId
+AsyncObj_SetAccountActive swift_AsyncObj_SetAccountActive
+AsyncObj_SetAccountName swift_AsyncObj_SetAccountName
+AsyncObj_SetAccountInfo swift_AsyncObj_SetAccountInfo
+AsyncObj_SetGroupId swift_AsyncObj_SetGroupId
+AsyncObj_SetGroupActive swift_AsyncObj_SetGroupActive
+AsyncObj_SetUserId swift_AsyncObj_SetUserId
+AsyncObj_SetUserActive swift_AsyncObj_SetUserActive
+AsyncObj_SetUserName swift_AsyncObj_SetUserName
+AsyncObj_SetUserInfo swift_AsyncObj_SetUserInfo
+AsyncObj_CreateSetUserList swift_AsyncObj_CreateSetUserList
+AsyncObj_GetInternalInt swift_AsyncObj_GetInternalInt
+AsyncObj_SetInternalInt swift_AsyncObj_SetInternalInt
+AsyncObj_SetError swift_AsyncObj_SetError
+AsyncObj_SetDevicePath swift_AsyncObj_SetDevicePath
+Async_SetString swift_Async_SetString
+Async_SetLink swift_Async_SetLink
+Async_SetStringBuffer swift_Async_SetStringBuffer
+Async_SetArrayBuffer swift_Async_SetArrayBuffer
+Async_SetPath swift_Async_SetPath
+Async_SetDevicePath swift_Async_SetDevicePath
+Async_SetEmptyPath swift_Async_SetEmptyPath
+Async_SetMenuItem swift_Async_SetMenuItem
+Async_SetFileList swift_Async_SetFileList
+Async_SetError swift_Async_SetError
+Async_SetInternalInt swift_Async_SetInternalInt
+Async_GetInternalInt swift_Async_GetInternalInt
+Async_SetIntValue swift_Async_SetIntValue
+Async_SetFileStat swift_Async_SetFileStat
+Async_toAsync swift_Async_toAsync
+Async_CallClosureAsync swift_Async_CallClosureAsync
+Async_CallClosure swift_Async_CallClosure
+Async_GetPad swift_Async_GetPad
+String_SetOptValue swift_String_SetOptValue
+String_SetUninitializedValue swift_String_SetUninitializedValue
+String_CreateArrayBuffer swift_String_CreateArrayBuffer
+FileItem_AddPath swift_FileItem_AddPath
+FileItem_Sort swift_FileItem_Sort
+FileItem_WriteInfo swift_FileItem_WriteInfo
+HTTPClient_Keep swift_HTTPClient_Keep
+HTTPClient_GetFd swift_HTTPClient_GetFd
+HTTPClient_Release swift_HTTPClient_Release
+Int_SetValue swift_Int_SetValue
+Bool_SetValue swift_Bool_SetValue
+SQLQry_GetKeyPtr swift_SQLQry_GetKeyPtr
+SQLQry_GetValues swift_SQLQry_GetValues
+SQLQry_setResult swift_SQLQry_setResult
+SQLQry_setErrorText swift_SQLQry_setErrorText
+Assert_GetPrint swift_Assert_GetPrint
+User_SortList swift_User_SortList
